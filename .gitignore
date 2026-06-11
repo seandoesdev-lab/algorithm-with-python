@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.omc/
+.ruff_cache/
+.claude/
+_scan.txt
