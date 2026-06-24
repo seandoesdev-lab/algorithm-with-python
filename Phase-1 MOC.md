@@ -18,5 +18,6 @@ tags: [moc, phase/1]
 | 10 | 연결 리스트 | [[day-10-linked-list/concept\|Day 10 — 연결 리스트]] |
 | 11 | 트리 기본 | [[day-11-tree-basics/concept\|Day 11 — 트리 기본]] |
 | 12 | 힙·우선순위 큐 | [[day-12-heap/concept\|Day 12 — 힙·우선순위 큐]] |
+| 13 | 해시맵 응용 | [[day-13-hashmap-patterns/concept\|Day 13 — 해시맵 응용]] |
 
 ⬅️ 이전: [[Phase-0 MOC]]

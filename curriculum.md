@@ -26,7 +26,7 @@
 | 10 | 연결 리스트 (Linked List) | phase-1-data-structures/day-10-linked-list | ✅ 완료 |
 | 11 | 트리 기본 (Tree Basics) | phase-1-data-structures/day-11-tree-basics | ✅ 완료 |
 | 12 | 힙·우선순위 큐 (Heap & Priority Queue) | phase-1-data-structures/day-12-heap | ✅ 완료 |
-| 13 | 해시맵 응용 (Hashmap Patterns) | phase-1-data-structures/day-13-hashmap-patterns | ⬜ 예정 |
+| 13 | 해시맵 응용 (Hashmap Patterns) | phase-1-data-structures/day-13-hashmap-patterns | ✅ 완료 |
 | 14 | 구간 자료구조 입문 (Prefix Sum) | phase-1-data-structures/day-14-prefix-sum | ⬜ 예정 |
 | 15 | 자료구조 종합 복습 (Review) | phase-1-data-structures/day-15-review | ⬜ 예정 |
 

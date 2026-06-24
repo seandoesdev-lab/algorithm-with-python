@@ -29,6 +29,7 @@ tags: [moc, algorithm]
 - [[day-10-linked-list/concept|Day 10 — 연결 리스트]]
 - [[day-11-tree-basics/concept|Day 11 — 트리 기본]]
 - [[day-12-heap/concept|Day 12 — 힙·우선순위 큐]]
+- [[day-13-hashmap-patterns/concept|Day 13 — 해시맵 응용]]
 
 ## 다음 단계 (예정)
 - Phase 2. 알고리즘 기초 / Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
