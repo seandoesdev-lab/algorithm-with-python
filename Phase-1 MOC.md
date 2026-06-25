@@ -19,5 +19,6 @@ tags: [moc, phase/1]
 | 11 | 트리 기본 | [[day-11-tree-basics/concept\|Day 11 — 트리 기본]] |
 | 12 | 힙·우선순위 큐 | [[day-12-heap/concept\|Day 12 — 힙·우선순위 큐]] |
 | 13 | 해시맵 응용 | [[day-13-hashmap-patterns/concept\|Day 13 — 해시맵 응용]] |
+| 14 | 누적 합 | [[day-14-prefix-sum/concept\|Day 14 — 누적 합]] |
 
 ⬅️ 이전: [[Phase-0 MOC]]
