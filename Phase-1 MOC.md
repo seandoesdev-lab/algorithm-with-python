@@ -20,5 +20,6 @@ tags: [moc, phase/1]
 | 12 | 힙·우선순위 큐 | [[day-12-heap/concept\|Day 12 — 힙·우선순위 큐]] |
 | 13 | 해시맵 응용 | [[day-13-hashmap-patterns/concept\|Day 13 — 해시맵 응용]] |
 | 14 | 누적 합 | [[day-14-prefix-sum/concept\|Day 14 — 누적 합]] |
+| 15 | 자료구조 종합 복습 | [[day-15-review/concept\|Day 15 — 자료구조 종합 복습]] |
 
 ⬅️ 이전: [[Phase-0 MOC]]

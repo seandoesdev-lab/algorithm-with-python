@@ -28,7 +28,7 @@
 | 12 | 힙·우선순위 큐 (Heap & Priority Queue) | phase-1-data-structures/day-12-heap | ✅ 완료 |
 | 13 | 해시맵 응용 (Hashmap Patterns) | phase-1-data-structures/day-13-hashmap-patterns | ✅ 완료 |
 | 14 | 구간 자료구조 입문 (Prefix Sum) | phase-1-data-structures/day-14-prefix-sum | ✅ 완료 |
-| 15 | 자료구조 종합 복습 (Review) | phase-1-data-structures/day-15-review | ⬜ 예정 |
+| 15 | 자료구조 종합 복습 (Review) | phase-1-data-structures/day-15-review | ✅ 완료 |
 
 ### Phase 2. 알고리즘 기초
 | Day | 주제 | 경로 | 상태 |
