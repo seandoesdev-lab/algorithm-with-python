@@ -22,4 +22,4 @@ tags: [moc, phase/1]
 | 14 | 누적 합 | [[day-14-prefix-sum/concept\|Day 14 — 누적 합]] |
 | 15 | 자료구조 종합 복습 | [[day-15-review/concept\|Day 15 — 자료구조 종합 복습]] |
 
-⬅️ 이전: [[Phase-0 MOC]]
+⬅️ 이전: [[Phase-0 MOC]] · ➡️ 다음: [[Phase-2 MOC]]

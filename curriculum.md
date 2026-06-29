@@ -33,7 +33,7 @@
 ### Phase 2. 알고리즘 기초
 | Day | 주제 | 경로 | 상태 |
 |---|---|---|---|
-| 16 | 시간복잡도와 Big-O | phase-2-core-algorithms/day-16-big-o | ⬜ 예정 |
+| 16 | 시간복잡도와 Big-O | phase-2-core-algorithms/day-16-big-o | ✅ 완료 |
 | 17 | 정렬 (Sorting) | phase-2-core-algorithms/day-17-sorting | ⬜ 예정 |
 | 18 | 이분 탐색 (Binary Search) | phase-2-core-algorithms/day-18-binary-search | ⬜ 예정 |
 | 19 | 투 포인터 (Two Pointers) | phase-2-core-algorithms/day-19-two-pointers | ⬜ 예정 |

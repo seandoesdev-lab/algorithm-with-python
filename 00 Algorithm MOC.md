@@ -33,6 +33,9 @@ tags: [moc, algorithm]
 - [[day-14-prefix-sum/concept|Day 14 — 누적 합]]
 - [[day-15-review/concept|Day 15 — 자료구조 종합 복습]]
 
+### Phase 2. 알고리즘 기초 → [[Phase-2 MOC]]
+- [[day-16-big-o/concept|Day 16 — 시간복잡도와 Big-O]]
+
 ## 다음 단계 (예정)
-- Phase 2. 알고리즘 기초 / Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
+- Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.
