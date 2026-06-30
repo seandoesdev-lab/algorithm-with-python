@@ -35,6 +35,7 @@ tags: [moc, algorithm]
 
 ### Phase 2. 알고리즘 기초 → [[Phase-2 MOC]]
 - [[day-16-big-o/concept|Day 16 — 시간복잡도와 Big-O]]
+- [[day-17-sorting/concept|Day 17 — 정렬]]
 
 ## 다음 단계 (예정)
 - Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전

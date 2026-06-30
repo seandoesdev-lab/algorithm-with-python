@@ -12,5 +12,6 @@ tags: [moc, phase/2]
 | Day | 주제 | 노트 |
 |---|---|---|
 | 16 | 시간복잡도와 Big-O | [[day-16-big-o/concept\|Day 16 — 시간복잡도와 Big-O]] |
+| 17 | 정렬 (Sorting) | [[day-17-sorting/concept\|Day 17 — 정렬]] |
 
 ⬅️ 이전: [[Phase-1 MOC]]
