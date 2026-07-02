@@ -13,5 +13,6 @@ tags: [moc, phase/2]
 |---|---|---|
 | 16 | 시간복잡도와 Big-O | [[day-16-big-o/concept\|Day 16 — 시간복잡도와 Big-O]] |
 | 17 | 정렬 (Sorting) | [[day-17-sorting/concept\|Day 17 — 정렬]] |
+| 18 | 이분 탐색 (Binary Search) | [[day-18-binary-search/concept\|Day 18 — 이분 탐색]] |
 
 ⬅️ 이전: [[Phase-1 MOC]]

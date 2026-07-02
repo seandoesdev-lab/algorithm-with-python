@@ -35,7 +35,7 @@
 |---|---|---|---|
 | 16 | 시간복잡도와 Big-O | phase-2-core-algorithms/day-16-big-o | ✅ 완료 |
 | 17 | 정렬 (Sorting) | phase-2-core-algorithms/day-17-sorting | ✅ 완료 |
-| 18 | 이분 탐색 (Binary Search) | phase-2-core-algorithms/day-18-binary-search | ⬜ 예정 |
+| 18 | 이분 탐색 (Binary Search) | phase-2-core-algorithms/day-18-binary-search | ✅ 완료 |
 | 19 | 투 포인터 (Two Pointers) | phase-2-core-algorithms/day-19-two-pointers | ⬜ 예정 |
 | 20 | 슬라이딩 윈도우 (Sliding Window) | phase-2-core-algorithms/day-20-sliding-window | ⬜ 예정 |
 | 21 | 그리디 (Greedy) | phase-2-core-algorithms/day-21-greedy | ⬜ 예정 |
