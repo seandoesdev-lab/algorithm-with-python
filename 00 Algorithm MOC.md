@@ -37,6 +37,9 @@ tags: [moc, algorithm]
 - [[day-16-big-o/concept|Day 16 — 시간복잡도와 Big-O]]
 - [[day-17-sorting/concept|Day 17 — 정렬]]
 - [[day-18-binary-search/concept|Day 18 — 이분 탐색]]
+- [[day-19-two-pointers/concept|Day 19 — 투 포인터]]
+- [[day-20-sliding-window/concept|Day 20 — 슬라이딩 윈도우]]
+- [[day-21-greedy/concept|Day 21 — 그리디]]
 
 ## 다음 단계 (예정)
 - Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
