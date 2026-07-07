@@ -40,6 +40,7 @@ tags: [moc, algorithm]
 - [[day-19-two-pointers/concept|Day 19 — 투 포인터]]
 - [[day-20-sliding-window/concept|Day 20 — 슬라이딩 윈도우]]
 - [[day-21-greedy/concept|Day 21 — 그리디]]
+- [[day-22-recursion/concept|Day 22 — 재귀와 분할정복]]
 
 ## 다음 단계 (예정)
 - Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
