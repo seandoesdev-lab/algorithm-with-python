@@ -18,5 +18,6 @@ tags: [moc, phase/2]
 | 20 | 슬라이딩 윈도우 (Sliding Window) | [[day-20-sliding-window/concept\|Day 20 — 슬라이딩 윈도우]] |
 | 21 | 그리디 (Greedy) | [[day-21-greedy/concept\|Day 21 — 그리디]] |
 | 22 | 재귀와 분할정복 (Recursion & Divide-Conquer) | [[day-22-recursion/concept\|Day 22 — 재귀와 분할정복]] |
+| 23 | 알고리즘 기초 복습 (Core Algorithms Review) | [[day-23-review/concept\|Day 23 — 알고리즘 기초 복습]] |
 
 ⬅️ 이전: [[Phase-1 MOC]]

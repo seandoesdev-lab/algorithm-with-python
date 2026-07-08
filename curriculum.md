@@ -40,7 +40,7 @@
 | 20 | 슬라이딩 윈도우 (Sliding Window) | phase-2-core-algorithms/day-20-sliding-window | ✅ 완료 |
 | 21 | 그리디 (Greedy) | phase-2-core-algorithms/day-21-greedy | ✅ 완료 |
 | 22 | 재귀와 분할정복 (Recursion & Divide-Conquer) | phase-2-core-algorithms/day-22-recursion | ✅ 완료 |
-| 23 | 알고리즘 기초 복습 (Review) | phase-2-core-algorithms/day-23-review | ⬜ 예정 |
+| 23 | 알고리즘 기초 복습 (Review) | phase-2-core-algorithms/day-23-review | ✅ 완료 |
 
 ### Phase 3. 탐색·그래프
 | Day | 주제 | 경로 | 상태 |
