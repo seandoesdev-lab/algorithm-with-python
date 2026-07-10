@@ -20,4 +20,4 @@ tags: [moc, phase/2]
 | 22 | 재귀와 분할정복 (Recursion & Divide-Conquer) | [[day-22-recursion/concept\|Day 22 — 재귀와 분할정복]] |
 | 23 | 알고리즘 기초 복습 (Core Algorithms Review) | [[day-23-review/concept\|Day 23 — 알고리즘 기초 복습]] |
 
-⬅️ 이전: [[Phase-1 MOC]]
+⬅️ 이전: [[Phase-1 MOC]] · ➡️ 다음: [[Phase-3 MOC]]

@@ -43,6 +43,9 @@ tags: [moc, algorithm]
 - [[day-22-recursion/concept|Day 22 — 재귀와 분할정복]]
 - [[day-23-review/concept|Day 23 — 알고리즘 기초 복습]]
 
+### Phase 3. 탐색·그래프 → [[Phase-3 MOC]]
+- [[day-24-brute-force/concept|Day 24 — 완전 탐색]]
+
 ## 다음 단계 (예정)
-- Phase 3. 탐색·그래프 / Phase 4. 심화 / Phase 5. 대기업 코테 실전
+- Phase 3 나머지(Day 25~30) / Phase 4. 심화 / Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.
