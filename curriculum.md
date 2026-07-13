@@ -46,7 +46,7 @@
 | Day | 주제 | 경로 | 상태 |
 |---|---|---|---|
 | 24 | 완전 탐색 (Brute Force) | phase-3-search-graph/day-24-brute-force | ✅ 완료 |
-| 25 | DFS (깊이 우선 탐색) | phase-3-search-graph/day-25-dfs | ⬜ 예정 |
+| 25 | DFS (깊이 우선 탐색) | phase-3-search-graph/day-25-dfs | ✅ 완료 |
 | 26 | BFS (너비 우선 탐색) | phase-3-search-graph/day-26-bfs | ⬜ 예정 |
 | 27 | 백트래킹 (Backtracking) | phase-3-search-graph/day-27-backtracking | ⬜ 예정 |
 | 28 | 그래프 표현과 순회 (Graph Representation) | phase-3-search-graph/day-28-graph | ⬜ 예정 |
