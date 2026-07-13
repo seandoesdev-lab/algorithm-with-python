@@ -27,7 +27,11 @@
    - 해당 Phase MOC(`Phase-N MOC.md`)와 `00 Algorithm MOC.md`의 목록에 이 Day 링크를 추가한다(`mcp__obsidian__edit-note` append 또는 직접 수정).
 5. `examples.py`와 `solutions.py`를 `PYTHONIOENCODING=cp949 python <파일>`로 실행해 에러가 없는지 확인한다.
 6. Day 상태를 `✅ 완료`로, `README.md` 체크박스를 `- [x]`로 갱신한다.
-7. (선택) git 커밋: `git add -A && git commit -m "feat: add Day NN ..."`.
+7. **git 커밋(필수).** 모든 파일 생성·진도 갱신을 마친 뒤 자동으로 커밋한다:
+   `git add -A && git commit -m "feat: add Day NN - <주제>"`.
+   - 커밋 메시지 끝에 `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` 한 줄을 포함한다.
+   - 기본 브랜치(main)에 직접 커밋한다(이 저장소는 매일 콘텐츠를 main에 누적하는 학습 저널이다).
+   - 원격 push는 사용자가 요청할 때만 한다.
 
 ## 품질 기준
 - 한국어 설명 + 핵심 용어 영어 병기.
