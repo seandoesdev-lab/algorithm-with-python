@@ -1,4 +1,4 @@
-# 파이썬 알고리즘 with 매일 학습 (Algorithm with Python)
+# 파이썬 알고리즘 (Algorithm with Python)
 
 파이썬 알고리즘·자료구조를 **기초부터 대기업 공채 코딩테스트 기출까지** 매일 한 단계씩 학습하는 저장소입니다.
 
