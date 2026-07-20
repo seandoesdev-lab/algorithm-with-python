@@ -50,6 +50,7 @@ tags: [moc, algorithm]
 - [[day-27-backtracking/concept|Day 27 — 백트래킹]]
 - [[day-28-graph/concept|Day 28 — 그래프 표현과 순회]]
 - [[day-29-tree-traversal/concept|Day 29 — 트리 순회·응용]]
+- [[day-30-review/concept|Day 30 — 개념 집중기 종합 복습]]
 
 ## 다음 단계 (예정)
 - Phase 3 나머지(Day 25~30) / Phase 4. 심화 / Phase 5. 대기업 코테 실전
