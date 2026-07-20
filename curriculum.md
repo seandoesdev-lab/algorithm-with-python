@@ -50,7 +50,7 @@
 | 26 | BFS (너비 우선 탐색) | phase-3-search-graph/day-26-bfs | ✅ 완료 |
 | 27 | 백트래킹 (Backtracking) | phase-3-search-graph/day-27-backtracking | ✅ 완료 |
 | 28 | 그래프 표현과 순회 (Graph Representation) | phase-3-search-graph/day-28-graph | ✅ 완료 |
-| 29 | 트리 순회·응용 (Tree Traversal) | phase-3-search-graph/day-29-tree-traversal | ⬜ 예정 |
+| 29 | 트리 순회·응용 (Tree Traversal) | phase-3-search-graph/day-29-tree-traversal | ✅ 완료 |
 | 30 | 개념 집중기 종합 복습 (Final Review) | phase-3-search-graph/day-30-review | ⬜ 예정 |
 
 ## 2단계 — 문제 풀이기 (Problem Drilling, Day 31~)
