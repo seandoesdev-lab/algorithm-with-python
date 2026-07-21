@@ -19,4 +19,4 @@ tags: [moc, phase/3]
 | 29 | 트리 순회·응용 (Tree Traversal) | [[day-29-tree-traversal/concept\|Day 29 — 트리 순회·응용]] |
 | 30 | 개념 집중기 종합 복습 (Final Review) | [[day-30-review/concept\|Day 30 — 개념 집중기 종합 복습]] |
 
-⬅️ 이전: [[Phase-2 MOC]]
+⬅️ 이전: [[Phase-2 MOC]] · ➡️ 다음: [[Phase-4 MOC]]

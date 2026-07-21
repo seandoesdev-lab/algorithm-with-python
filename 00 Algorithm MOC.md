@@ -52,6 +52,11 @@ tags: [moc, algorithm]
 - [[day-29-tree-traversal/concept|Day 29 — 트리 순회·응용]]
 - [[day-30-review/concept|Day 30 — 개념 집중기 종합 복습]]
 
+## 2단계 — 문제 풀이기 (Problem Drilling)
+
+### Phase 4. 심화 알고리즘 → [[Phase-4 MOC]]
+- [[day-31-dp/concept|Day 31 — 동적 계획법 입문 (Dynamic Programming)]]
+
 ## 다음 단계 (예정)
-- Phase 3 나머지(Day 25~30) / Phase 4. 심화 / Phase 5. 대기업 코테 실전
+- Phase 4 심화(배낭·최단 경로·MST·위상 정렬·Union-Find·트라이·세그먼트 트리) / Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.
