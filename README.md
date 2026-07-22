@@ -75,6 +75,7 @@
 
 #### Phase 4. 심화 알고리즘
 - [x] Day 31 — 동적 계획법 입문 (Dynamic Programming)
+- [x] Day 32 — 배낭 문제 (Knapsack DP)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

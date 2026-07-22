@@ -12,5 +12,6 @@ tags: [moc, phase/4]
 | Day | 주제 | 노트 |
 |---|---|---|
 | 31 | 동적 계획법 입문 (Dynamic Programming) | [[day-31-dp/concept\|Day 31 — 동적 계획법 입문]] |
+| 32 | 배낭 문제 (Knapsack DP) | [[day-32-dp-knapsack/concept\|Day 32 — 배낭 문제 (Knapsack DP)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]

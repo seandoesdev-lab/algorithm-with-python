@@ -65,4 +65,5 @@
 | Day | 주제 | 경로 | 상태 |
 |---|---|---|---|
 | 31 | 동적 계획법 입문 (Dynamic Programming) | phase-4-advanced/day-31-dp | ✅ 완료 |
-| 32 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 32 | 배낭 문제 (Knapsack DP) | phase-4-advanced/day-32-dp-knapsack | ✅ 완료 |
+| 33 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
