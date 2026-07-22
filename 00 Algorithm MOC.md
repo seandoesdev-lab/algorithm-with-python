@@ -57,6 +57,7 @@ tags: [moc, algorithm]
 ### Phase 4. 심화 알고리즘 → [[Phase-4 MOC]]
 - [[day-31-dp/concept|Day 31 — 동적 계획법 입문 (Dynamic Programming)]]
 - [[day-32-dp-knapsack/concept|Day 32 — 배낭 문제 (Knapsack DP)]]
+- [[day-33-dp-lis-lcs/concept|Day 33 — 부분 수열 DP (LIS·LCS)]]
 
 ## 다음 단계 (예정)
 - Phase 4 심화(배낭·최단 경로·MST·위상 정렬·Union-Find·트라이·세그먼트 트리) / Phase 5. 대기업 코테 실전
