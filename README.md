@@ -77,6 +77,7 @@
 - [x] Day 31 — 동적 계획법 입문 (Dynamic Programming)
 - [x] Day 32 — 배낭 문제 (Knapsack DP)
 - [x] Day 33 — 부분 수열 DP (LIS·LCS)
+- [x] Day 34 — 최단 경로: 다익스트라 (Dijkstra's Shortest Path)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

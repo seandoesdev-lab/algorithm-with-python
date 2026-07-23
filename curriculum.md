@@ -67,4 +67,5 @@
 | 31 | 동적 계획법 입문 (Dynamic Programming) | phase-4-advanced/day-31-dp | ✅ 완료 |
 | 32 | 배낭 문제 (Knapsack DP) | phase-4-advanced/day-32-dp-knapsack | ✅ 완료 |
 | 33 | 부분 수열 DP (LIS·LCS) | phase-4-advanced/day-33-dp-lis-lcs | ✅ 완료 |
-| 34 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 34 | 최단 경로: 다익스트라 (Dijkstra's Shortest Path) | phase-4-advanced/day-34-dijkstra | ✅ 완료 |
+| 35 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
