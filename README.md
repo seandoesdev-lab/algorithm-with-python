@@ -78,6 +78,7 @@
 - [x] Day 32 — 배낭 문제 (Knapsack DP)
 - [x] Day 33 — 부분 수열 DP (LIS·LCS)
 - [x] Day 34 — 최단 경로: 다익스트라 (Dijkstra's Shortest Path)
+- [x] Day 35 — 최단 경로: 벨만-포드·플로이드-워셜 (Bellman-Ford & Floyd-Warshall)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

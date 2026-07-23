@@ -68,4 +68,5 @@
 | 32 | 배낭 문제 (Knapsack DP) | phase-4-advanced/day-32-dp-knapsack | ✅ 완료 |
 | 33 | 부분 수열 DP (LIS·LCS) | phase-4-advanced/day-33-dp-lis-lcs | ✅ 완료 |
 | 34 | 최단 경로: 다익스트라 (Dijkstra's Shortest Path) | phase-4-advanced/day-34-dijkstra | ✅ 완료 |
-| 35 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 35 | 최단 경로: 벨만-포드·플로이드-워셜 (Bellman-Ford & Floyd-Warshall) | phase-4-advanced/day-35-bellman-floyd | ✅ 완료 |
+| 36 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
