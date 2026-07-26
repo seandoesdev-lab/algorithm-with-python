@@ -69,4 +69,5 @@
 | 33 | 부분 수열 DP (LIS·LCS) | phase-4-advanced/day-33-dp-lis-lcs | ✅ 완료 |
 | 34 | 최단 경로: 다익스트라 (Dijkstra's Shortest Path) | phase-4-advanced/day-34-dijkstra | ✅ 완료 |
 | 35 | 최단 경로: 벨만-포드·플로이드-워셜 (Bellman-Ford & Floyd-Warshall) | phase-4-advanced/day-35-bellman-floyd | ✅ 완료 |
-| 36 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 36 | 서로소 집합 (Union-Find / Disjoint Set) | phase-4-advanced/day-36-union-find | ✅ 완료 |
+| 37 | (스케줄 루틴이 추가) | - | ⬜ 예정 |

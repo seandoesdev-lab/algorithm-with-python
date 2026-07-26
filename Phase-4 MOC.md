@@ -16,5 +16,6 @@ tags: [moc, phase/4]
 | 33 | 부분 수열 DP (LIS·LCS) | [[day-33-dp-lis-lcs/concept\|Day 33 — 부분 수열 DP (LIS·LCS)]] |
 | 34 | 최단 경로: 다익스트라 (Dijkstra) | [[day-34-dijkstra/concept\|Day 34 — 최단 경로 (Dijkstra)]] |
 | 35 | 최단 경로: 벨만-포드·플로이드-워셜 (Bellman-Ford & Floyd-Warshall) | [[day-35-bellman-floyd/concept\|Day 35 — 벨만-포드·플로이드-워셜]] |
+| 36 | 서로소 집합 (Union-Find / Disjoint Set) | [[day-36-union-find/concept\|Day 36 — 서로소 집합 (Union-Find)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]
