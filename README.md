@@ -80,6 +80,7 @@
 - [x] Day 34 — 최단 경로: 다익스트라 (Dijkstra's Shortest Path)
 - [x] Day 35 — 최단 경로: 벨만-포드·플로이드-워셜 (Bellman-Ford & Floyd-Warshall)
 - [x] Day 36 — 서로소 집합 (Union-Find / Disjoint Set)
+- [x] Day 37 — 최소 신장 트리 (MST: Kruskal·Prim)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 
