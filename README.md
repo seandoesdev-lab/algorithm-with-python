@@ -82,6 +82,7 @@
 - [x] Day 36 — 서로소 집합 (Union-Find / Disjoint Set)
 - [x] Day 37 — 최소 신장 트리 (MST: Kruskal·Prim)
 - [x] Day 38 — 위상 정렬 (Topological Sort)
+- [x] Day 39 — 트라이 (Trie / Prefix Tree)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

@@ -72,4 +72,5 @@
 | 36 | 서로소 집합 (Union-Find / Disjoint Set) | phase-4-advanced/day-36-union-find | ✅ 완료 |
 | 37 | 최소 신장 트리 (MST: Kruskal·Prim) | phase-4-advanced/day-37-mst | ✅ 완료 |
 | 38 | 위상 정렬 (Topological Sort) | phase-4-advanced/day-38-topological-sort | ✅ 완료 |
-| 39 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 39 | 트라이 (Trie / Prefix Tree) | phase-4-advanced/day-39-trie | ✅ 완료 |
+| 40 | (스케줄 루틴이 추가) | - | ⬜ 예정 |

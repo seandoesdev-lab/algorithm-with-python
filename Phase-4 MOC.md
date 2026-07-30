@@ -19,5 +19,6 @@ tags: [moc, phase/4]
 | 36 | 서로소 집합 (Union-Find / Disjoint Set) | [[day-36-union-find/concept\|Day 36 — 서로소 집합 (Union-Find)]] |
 | 37 | 최소 신장 트리 (MST: Kruskal·Prim) | [[day-37-mst/concept\|Day 37 — 최소 신장 트리 (MST)]] |
 | 38 | 위상 정렬 (Topological Sort) | [[day-38-topological-sort/concept\|Day 38 — 위상 정렬 (Topological Sort)]] |
+| 39 | 트라이 (Trie / Prefix Tree) | [[day-39-trie/concept\|Day 39 — 트라이 (Trie)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]

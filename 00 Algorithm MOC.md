@@ -63,7 +63,8 @@ tags: [moc, algorithm]
 - [[day-36-union-find/concept|Day 36 — 서로소 집합 (Union-Find / Disjoint Set)]]
 - [[day-37-mst/concept|Day 37 — 최소 신장 트리 (MST: Kruskal·Prim)]]
 - [[day-38-topological-sort/concept|Day 38 — 위상 정렬 (Topological Sort)]]
+- [[day-39-trie/concept|Day 39 — 트라이 (Trie / Prefix Tree)]]
 
 ## 다음 단계 (예정)
-- Phase 4 심화(배낭·최단 경로·MST·위상 정렬·Union-Find·트라이·세그먼트 트리) / Phase 5. 대기업 코테 실전
+- Phase 4 심화(세그먼트 트리·비트마스킹) / Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.
