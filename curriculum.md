@@ -73,4 +73,5 @@
 | 37 | 최소 신장 트리 (MST: Kruskal·Prim) | phase-4-advanced/day-37-mst | ✅ 완료 |
 | 38 | 위상 정렬 (Topological Sort) | phase-4-advanced/day-38-topological-sort | ✅ 완료 |
 | 39 | 트라이 (Trie / Prefix Tree) | phase-4-advanced/day-39-trie | ✅ 완료 |
-| 40 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 40 | 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT) | phase-4-advanced/day-40-segment-tree | ✅ 완료 |
+| 41 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
