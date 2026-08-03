@@ -74,4 +74,5 @@
 | 38 | 위상 정렬 (Topological Sort) | phase-4-advanced/day-38-topological-sort | ✅ 완료 |
 | 39 | 트라이 (Trie / Prefix Tree) | phase-4-advanced/day-39-trie | ✅ 완료 |
 | 40 | 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT) | phase-4-advanced/day-40-segment-tree | ✅ 완료 |
-| 41 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 41 | 비트마스킹 (Bitmasking & Bitmask DP) | phase-4-advanced/day-41-bitmask | ✅ 완료 |
+| 42 | (스케줄 루틴이 추가) | - | ⬜ 예정 |

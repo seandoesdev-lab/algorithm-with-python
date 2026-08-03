@@ -21,5 +21,6 @@ tags: [moc, phase/4]
 | 38 | 위상 정렬 (Topological Sort) | [[day-38-topological-sort/concept\|Day 38 — 위상 정렬 (Topological Sort)]] |
 | 39 | 트라이 (Trie / Prefix Tree) | [[day-39-trie/concept\|Day 39 — 트라이 (Trie)]] |
 | 40 | 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT) | [[day-40-segment-tree/concept\|Day 40 — 세그먼트 트리·펜윅 트리]] |
+| 41 | 비트마스킹 (Bitmasking & Bitmask DP) | [[day-41-bitmask/concept\|Day 41 — 비트마스킹 (Bitmasking)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]
