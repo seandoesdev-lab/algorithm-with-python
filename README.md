@@ -85,6 +85,7 @@
 - [x] Day 39 — 트라이 (Trie / Prefix Tree)
 - [x] Day 40 — 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT)
 - [x] Day 41 — 비트마스킹 (Bitmasking & Bitmask DP)
+- [x] Day 42 — 문자열 매칭 (KMP·라빈-카프)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

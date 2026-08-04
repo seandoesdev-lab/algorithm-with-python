@@ -22,5 +22,6 @@ tags: [moc, phase/4]
 | 39 | 트라이 (Trie / Prefix Tree) | [[day-39-trie/concept\|Day 39 — 트라이 (Trie)]] |
 | 40 | 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT) | [[day-40-segment-tree/concept\|Day 40 — 세그먼트 트리·펜윅 트리]] |
 | 41 | 비트마스킹 (Bitmasking & Bitmask DP) | [[day-41-bitmask/concept\|Day 41 — 비트마스킹 (Bitmasking)]] |
+| 42 | 문자열 매칭 (KMP·라빈-카프) | [[day-42-string-matching/concept\|Day 42 — 문자열 매칭 (KMP·라빈-카프)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]

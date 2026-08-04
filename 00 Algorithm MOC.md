@@ -66,7 +66,8 @@ tags: [moc, algorithm]
 - [[day-39-trie/concept|Day 39 — 트라이 (Trie / Prefix Tree)]]
 - [[day-40-segment-tree/concept|Day 40 — 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT)]]
 - [[day-41-bitmask/concept|Day 41 — 비트마스킹 (Bitmasking & Bitmask DP)]]
+- [[day-42-string-matching/concept|Day 42 — 문자열 매칭 (KMP·라빈-카프)]]
 
 ## 다음 단계 (예정)
-- Phase 4 심화(문자열 매칭 KMP·라빈-카프) / Phase 5. 대기업 코테 실전
+- Phase 4 심화(최소 공통 조상 LCA 등) / Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.
