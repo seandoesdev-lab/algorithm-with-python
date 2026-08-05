@@ -76,4 +76,5 @@
 | 40 | 세그먼트 트리·펜윅 트리 (Segment Tree & Fenwick/BIT) | phase-4-advanced/day-40-segment-tree | ✅ 완료 |
 | 41 | 비트마스킹 (Bitmasking & Bitmask DP) | phase-4-advanced/day-41-bitmask | ✅ 완료 |
 | 42 | 문자열 매칭 (KMP·라빈-카프) | phase-4-advanced/day-42-string-matching | ✅ 완료 |
-| 43 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
+| 43 | 최소 공통 조상 (LCA: Lowest Common Ancestor) | phase-4-advanced/day-43-lca | ✅ 완료 |
+| 44 | (스케줄 루틴이 추가) | - | ⬜ 예정 |
