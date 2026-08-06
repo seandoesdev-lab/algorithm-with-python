@@ -24,5 +24,6 @@ tags: [moc, phase/4]
 | 41 | 비트마스킹 (Bitmasking & Bitmask DP) | [[day-41-bitmask/concept\|Day 41 — 비트마스킹 (Bitmasking)]] |
 | 42 | 문자열 매칭 (KMP·라빈-카프) | [[day-42-string-matching/concept\|Day 42 — 문자열 매칭 (KMP·라빈-카프)]] |
 | 43 | 최소 공통 조상 (LCA: Lowest Common Ancestor) | [[day-43-lca/concept\|Day 43 — 최소 공통 조상 (LCA)]] |
+| 44 | 트리 DP (Tree DP: 서브트리 집계·리루팅) | [[day-44-tree-dp/concept\|Day 44 — 트리 DP (Tree DP)]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]
