@@ -69,7 +69,8 @@ tags: [moc, algorithm]
 - [[day-42-string-matching/concept|Day 42 — 문자열 매칭 (KMP·라빈-카프)]]
 - [[day-43-lca/concept|Day 43 — 최소 공통 조상 (LCA: Lowest Common Ancestor)]]
 - [[day-44-tree-dp/concept|Day 44 — 트리 DP (Tree DP: 서브트리 집계·리루팅)]]
+- [[day-45-review/concept|Day 45 — Phase 4 심화 종합 복습 (Advanced Review)]]
 
 ## 다음 단계 (예정)
-- Phase 4 심화 종합 복습 / Phase 5. 대기업 코테 실전
+- Phase 5. 대기업 코테 실전
 - 매일 아침 8시 루틴이 다음 Day를 생성하며 이 지도에 추가됩니다.

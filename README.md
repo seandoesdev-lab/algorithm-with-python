@@ -88,6 +88,7 @@
 - [x] Day 42 — 문자열 매칭 (KMP·라빈-카프)
 - [x] Day 43 — 최소 공통 조상 (LCA: Lowest Common Ancestor)
 - [x] Day 44 — 트리 DP (Tree DP: 서브트리 집계·리루팅)
+- [x] Day 45 — Phase 4 심화 종합 복습 (Advanced Review)
 
 이후 스케줄 루틴이 진행하며 추가합니다.
 

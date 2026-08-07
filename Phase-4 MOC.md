@@ -25,5 +25,6 @@ tags: [moc, phase/4]
 | 42 | 문자열 매칭 (KMP·라빈-카프) | [[day-42-string-matching/concept\|Day 42 — 문자열 매칭 (KMP·라빈-카프)]] |
 | 43 | 최소 공통 조상 (LCA: Lowest Common Ancestor) | [[day-43-lca/concept\|Day 43 — 최소 공통 조상 (LCA)]] |
 | 44 | 트리 DP (Tree DP: 서브트리 집계·리루팅) | [[day-44-tree-dp/concept\|Day 44 — 트리 DP (Tree DP)]] |
+| 45 | Phase 4 심화 종합 복습 (Advanced Review) | [[day-45-review/concept\|Day 45 — Phase 4 심화 종합 복습]] |
 
 ⬅️ 이전: [[Phase-3 MOC]]

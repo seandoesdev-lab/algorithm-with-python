@@ -78,4 +78,4 @@
 | 42 | 문자열 매칭 (KMP·라빈-카프) | phase-4-advanced/day-42-string-matching | ✅ 완료 |
 | 43 | 최소 공통 조상 (LCA: Lowest Common Ancestor) | phase-4-advanced/day-43-lca | ✅ 완료 |
 | 44 | 트리 DP (Tree DP: 서브트리 집계·리루팅) | phase-4-advanced/day-44-tree-dp | ✅ 완료 |
-| 45 | Phase 4 심화 종합 복습 (Advanced Review) | phase-4-advanced/day-45-review | ⬜ 예정 |
+| 45 | Phase 4 심화 종합 복습 (Advanced Review) | phase-4-advanced/day-45-review | ✅ 완료 |
